@@ -1,0 +1,104 @@
+
+  [
+    {
+      "recipe_id": "1",
+      "recipe_name": "Classic Cheeseburger",
+      "recipe_img": "https://media.istockphoto.com/id/1407128086/photo/two-juicy-craft-cheeseburgers-with-roasted-bell-pepper-and-pickles.jpg?s=1024x1024&w=is&k=20&c=0YXbwo4eaviYZqdPEAXtZqQVIEqZIq2eQ5-fV5T5P9k=",
+      "short_description": "Two juicy craft cheeseburgers with roasted bell pepper and pickles served with french fries on parchment paper, wooden background",
+      "ingredients": [
+        "200g ground beef",
+        "2 slices cheddar cheese",
+        "1 hamburger bun",
+        "Lettuce, tomato, onion (optional)",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": 25,
+      "calories": "500"
+    },
+    {
+      "recipe_id": "2",
+      "recipe_name": "Vegetarian Pizza",
+      "recipe_img": "https://media.istockphoto.com/id/1366573468/photo/vegatarian-pizza.jpg?s=1024x1024&w=is&k=20&c=N8BmiRnkDPhHCDTnrEdyg1cLhpH3B62w53H3hxC9jvc=",
+      "short_description": "Vegetarian pizza with tomato sauce, sun-dried tomatoes, vegan cheese, microgreens, seeds and nuts. Flat lay top-down composition on dark green background.",
+      "ingredients": [
+        "1 pre-made pizza dough",
+        "1/2 cup tomato sauce",
+        "1 cup mozzarella cheese",
+        "Assorted vegetables (bell peppers, onions, mushrooms)",
+        "Italian seasoning",
+        "Olive oil"
+      ],
+      "preparing_time": 30,
+      "calories": "350"
+    },
+    {
+      "recipe_id": "3",
+      "recipe_name": "Grilled Salmon",
+      "recipe_img": "https://media.istockphoto.com/id/1281404116/photo/fried-salmon-steaks-fried-potatoes-and-fresh-vegetables-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=VXGw7Ol75rxFHW7gJmeAtNshf2X-Sbo24_kcDPQ-SL8=",
+      "short_description": "Fried salmon steaks, fried potatoes and fresh vegetables on wooden table",
+      "ingredients": [
+        "4 salmon fillets",
+        "2 tablespoons olive oil",
+        "1 lemon, sliced",
+        "2 cloves garlic, minced",
+        "Fresh dill or parsley",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": 20,
+      "calories": "300"
+    },
+    {
+      "recipe_id": "4",
+      "recipe_name": "Chicken Caesar Salad",
+      "recipe_img": "https://media.istockphoto.com/id/169986941/photo/chicken-salad.jpg?s=1024x1024&w=is&k=20&c=mWlIitrFz5dq4GQhDtbK82VUBK7YQN39nX_RVeBB7PA=",
+      "short_description": "Grilled Chicken Caesar Salad",
+      "ingredients": [
+        "2 chicken breasts, grilled and sliced",
+        "Romaine lettuce",
+        "Croutons",
+        "Grated Parmesan cheese",
+        "Caesar dressing",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": 15,
+      "calories": "400"
+    },
+    {
+      "recipe_id": "5",
+      "recipe_name": "Pasta Primavera",
+      "recipe_img": "https://media.istockphoto.com/id/108660552/photo/spring-pasta.jpg?s=1024x1024&w=is&k=20&c=-upTC4XAyCxhRcDvIfdTrDFS06Rm1icyMEy2Qd5VjPM=",
+      "short_description": "Pasta primavera. Fresh bow-tie pasta with asparagus, beans, peas, snow-peas, tomatoes, carrots and peppers.",
+      "ingredients": [
+        "300g pasta (penne or spaghetti)",
+        "Assorted vegetables (zucchini, bell peppers, cherry tomatoes)",
+        "Garlic cloves, minced",
+        "Olive oil",
+        "Fresh basil leaves",
+        "Parmesan cheese"
+      ],
+      "preparing_time": 25,
+      "calories": "350"
+    },
+    {
+      "recipe_id": "6",
+      "recipe_name": "Chocolate Chip Cookies",
+      "recipe_img": "https://media.istockphoto.com/id/1255986329/photo/homemade-warm-chocolate-chip-cookies.jpg?s=1024x1024&w=is&k=20&c=7GFKXEpot3YLNDiLEYE4tbChxYNni8UzF_U5_OCbmdQ=",
+      "short_description": "Homemade Warm Chocolate Chip Cookies Ready to Eat",
+      "ingredients": [
+        "2 1/4 cups all-purpose flour",
+        "1/2 teaspoon baking soda",
+        "1 cup unsalted butter, softened",
+        "3/4 cup granulated sugar",
+        "3/4 cup packed brown sugar",
+        "2 large eggs"
+      ],
+      "preparing_time": 35,
+      "calories": "150"
+    }
+  ]
+
+  
+  
+  
+  
+  
